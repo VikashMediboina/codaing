@@ -1,0 +1,2 @@
+export const POST_REQUEST_GET_DATA = "POST_REQUEST_GET_DATA";
+export const GET_DATA = "GET_DATA";
